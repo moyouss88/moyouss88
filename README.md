@@ -1,8 +1,6 @@
 ### Hi, I'm Mohamed Youssef 👋
-- 🌱 I’m currently learning html,CSS and JS
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🌱 I’m currently learning React
+- 👯 I’m looking to collaborate on React-bootstrap
 - 📫 How to reach me: mohamed.youssef@hsrw.org
 
 <!--
